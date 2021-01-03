@@ -35,4 +35,4 @@ But here's what you can expect.
 * TurboAPI analytics and studies
 
 New posts will be up each week so they'll always be something new for you to sink your teeth into.
-If you've got an idea or would like to share you performance war stories, hit me up on Twitter [@turboapi]https://twitter.com/TurboAPI)
+If you've got an idea or would like to share you performance war stories, hit me up on Twitter [@turboapi](https://twitter.com/TurboAPI)
